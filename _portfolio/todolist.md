@@ -9,5 +9,5 @@ short-description: Todo list application
 
 ## Todolist
 
-This is an aplication that help users create a list of items to be completed. The items are automatically deleted after 7 days from being created. 
+This is an aplication that help users create a list of items to be completed. The items are automatically deleted after 7 days from being created. [Visit the production page](http://luistodolist.herokuapp.com)
 

@@ -9,4 +9,4 @@ short-description: This is a clone of the polular online bulletin board Redddit
 
 ## RedditClone
 
-Reditclone allows users to create posts that people can up vote or down vote. It lets users upload pictures to the posts.  Administrators can create topics to which standard users can created posts to. Reditclone runs an algorithms that sorts posts, to show users the most popular posts.  
+Reditclone allows users to create posts that people can up vote or down vote. It lets users upload pictures to the posts.  Administrators can create topics to which standard users can created posts to. Reditclone runs an algorithms that sorts posts, to show users the most popular posts. [Visit the production page](http://reditclone.herokuapp.com/)
