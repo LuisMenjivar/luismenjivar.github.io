@@ -1,41 +1,39 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
+url: "http://luismenjivar.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Joey Kirk
-  avatar: avatar.png
-  gravatar: # Email MD5 hash
+  title: Luis Menjivar
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h1>This is a collection of my finest Rails projects</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: luismenjivr@gmai.com
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble: 
+  facebook: 
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "luismenjivar"
   google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
+  instagram: 
+  linkedin:   "https://www.linkedin.com/pub/luis-menjivar/a3/b56/a2a"
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  "http://stackoverflow.com/users/4043127/luis-menjivar"
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: 
   wordpress:
   youtube:
 
